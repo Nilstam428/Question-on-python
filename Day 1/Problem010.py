@@ -1,1 +1,1 @@
-# Q how to reverse a string
+# Q how to reverse a list
