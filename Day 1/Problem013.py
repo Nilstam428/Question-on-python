@@ -1,1 +1,1 @@
-# Q tuple with first and last elemetn
+# Q create a new tuple which store only first and last value
