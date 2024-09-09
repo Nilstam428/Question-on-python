@@ -7,3 +7,8 @@
 # 6. reverse()
 # 7. pop()
 # 8. slicing
+
+
+l1 = [1, 20, 30, 30, 20, 30, 40]
+print(l1.count(30))
+print(l1)

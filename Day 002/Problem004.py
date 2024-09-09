@@ -21,4 +21,11 @@ def checkPrime(number):
         print("invalid input")
 
 
-checkPrime(15)
+checkPrime(13)
+
+
+# while True:
+#     for i in range(1, 10):
+#         if i == 8:
+#             print("out of loop")
+#     break

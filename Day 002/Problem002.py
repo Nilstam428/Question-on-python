@@ -7,11 +7,10 @@ def greet(name):  # name is a function's parameter
 
 greet("jd")  # function's argument
 
-# concept 1
-# f-string
+# concpet 1
+# f - string
 
-# example :
 
-# name = "jp"
-# age = 21
-# print(f"my name is {name} and i am {age} years old")
+name = "jp"
+age = 21
+print(f"my name is {name} and i am {age} years old")

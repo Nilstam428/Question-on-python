@@ -19,20 +19,20 @@ print(double(result))
 
 
 # concept 1
-
 # scope of variable
-# 1. global variable = it declare outside of a function
-# 2. local variable = it declare inside a function
+# 1. global variable
+# 2. local variable
 
-# name = "ram"
-
-
-# def funt():
-#     value = "100"
+# name = "radha"  # global variable
 
 
-# print(name)  # ram
-# print(value)  # error throw
+# def greet():
+#     value = "100"  # local variable
+
+
+# print(name)
+# print(value)
+
 
 # concept 2
-# global = convert local variable to global
+# 1. global
