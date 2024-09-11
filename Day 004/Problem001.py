@@ -4,7 +4,7 @@
 # 2. methods (function)
 
 # myth  => class consist of variable or methods (this will always not true)
-# class is a blue print of creating object.
+# class is a blue print for creating object.
 
 # concept 1
 
@@ -26,7 +26,7 @@ obj.info()
 print(obj.name)
 
 
-# concept 2
+# concept 2 (accessing methods and variables)
 # 1. method = ()
 # 2. variables = .variableName
 
