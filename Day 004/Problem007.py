@@ -16,7 +16,7 @@
 # print(id(name))
 
 # 👇 id will be same here
-# x = 10
+# x = 12
 # print(id(x))
 
 # y = x
@@ -43,3 +43,14 @@ obj2 = Students("jp", 21, "Ajmer")
 
 print(id(obj1))
 print(id(obj2))
+
+
+# def add(a, b):
+#     return a + b
+
+
+# print(add(2, 3))
+# print(add)
+
+
+# id = unique value genrate

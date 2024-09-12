@@ -20,8 +20,8 @@ class Students:
 
 
 obj = Students()
-obj.age = 21
-print(obj.__dict__)
+# obj.age = 21
+# print(obj.__dict__)
 obj.info()
 print(obj.name)
 

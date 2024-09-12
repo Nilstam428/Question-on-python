@@ -28,3 +28,4 @@ class Person(Students):
 
 obj = Person("jp", 21, "Ajmer")
 obj.info("python")
+obj.jp

@@ -1,4 +1,4 @@
-# Q10. how to overload a constructor ?
+# Q10. how to override a constructor ?
 
 
 class Students:

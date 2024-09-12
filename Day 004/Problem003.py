@@ -7,6 +7,7 @@ class Students:
 
 
 obj = Students()
+print(obj)
 obj.Name = "sandeep"  # dynamically
 print(obj.__dict__)
 obj.age = 20
