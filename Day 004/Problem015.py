@@ -43,24 +43,23 @@
 # obj.m1()
 
 
-class A:
-    def m1(self):
-        print("method 1")
+# class A:
+#     def m1(self):
+#         print("method 1")
 
 
-class B:
-    def m1(self):
-        print("method 2")
-        # super().m1()
+# class B:
+#     def m1(self):
+#         super().m1()
+#         print("method 2")
 
 
-class C(B, A):
-    def m3(self):
-        print("method 3")
-        super().m1()
-        A().m1()
+# class C(B, A):
+#     def m3(self):
+#         super().m1()
+#         print("method 3")
 
 
-obj = C()
+# obj = C()
 
-obj.m3()
+# obj.m3()
