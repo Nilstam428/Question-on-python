@@ -3,10 +3,13 @@
 
 
 class Students:
-    pass
+    loaction = "ajmer"
+
+    def __init__(self, name):
+        self.name = name
 
 
-obj = Students()
+obj = Students("jp")
 print(obj)
 obj.Name = "sandeep"  # dynamically
 print(obj.__dict__)

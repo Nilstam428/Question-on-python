@@ -28,3 +28,6 @@ def function(*a):
 
 
 function(A, B, C, D)
+
+
+# duck typing = it is a function which calls same method of different class

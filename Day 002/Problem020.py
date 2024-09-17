@@ -1,1 +1,1 @@
-# Q how to access values in dictionary
+# Q how to access particular values in dictionary
