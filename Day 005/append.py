@@ -13,5 +13,5 @@
 # if file does not exist then it will create a new file
 #
 #
-with open("radha.py", "a") as file:
-    file.write("radha")
+# with open("radha.py", "a") as file:
+#     file.write("radha")

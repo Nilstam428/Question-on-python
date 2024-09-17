@@ -88,8 +88,8 @@
 #     print("file not found")
 
 
-try:
-    with open("jd.py") as file:
-        print(file.read())
-except Exception as e:
-    print(f"error : {e}")
+# try:
+#     with open("jd.py") as file:
+#         print(file.read())
+# except Exception as e:
+#     print(f"error : {e}")
