@@ -35,3 +35,11 @@ class B(A):
 
 obj = B()
 obj.jp()
+
+
+# concept 1
+# 1. inbulit module
+# import random
+# import math
+
+# 2. user defined module
