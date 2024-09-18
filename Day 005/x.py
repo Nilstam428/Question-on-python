@@ -70,7 +70,7 @@ print("Changed Directory:", os.getcwd())
 # print("File Removed:", os.listdir("."))
 
 
-import os
+# import os
 
-exists = os.path.exists("Problem030.py")
-print("Does folder1 exist?", exists)
+# exists = os.path.exists("Problem030.py")
+# print("Does folder1 exist?", exists)
